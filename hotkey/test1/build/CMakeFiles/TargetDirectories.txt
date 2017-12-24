@@ -1,0 +1,1 @@
+/home/ubuntu/code/block/hotkey/test1/build/CMakeFiles/main.dir
