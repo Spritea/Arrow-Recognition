@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/code/block/test2/main.cpp
+opencv2/opencv.hpp
+-
+iostream
+-
+vector
+-
+cstdio
+-
+my_serial.hpp
+/home/ubuntu/code/block/test2/my_serial.hpp
+
+/home/ubuntu/code/block/test2/my_serial.hpp
+stdio.h
+-
+string.h
+-
+malloc.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+termios.h
+-
+math.h
+/home/ubuntu/code/block/test2/math.h
+
